@@ -1,6 +1,6 @@
 # electron-ipc-shadow
 
-```
+```bash
 npm i electron-ipc-shadow
 ```
 
