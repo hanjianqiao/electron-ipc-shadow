@@ -1,0 +1,25 @@
+{
+  "name": "electron-ipc-shadow",
+  "version": "1.0.0",
+  "description": "Make it easier to use great amount of IPC calling from renderer with electron.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanjianqiao/electron-ipc-shadow.git"
+  },
+  "keywords": [
+    "electron",
+    "ipcRenderer",
+    "ipcMain",
+    "Proxy"
+  ],
+  "author": "hanjianqiao",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hanjianqiao/electron-ipc-shadow/issues"
+  },
+  "homepage": "https://github.com/hanjianqiao/electron-ipc-shadow#readme"
+}
